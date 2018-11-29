@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "StatsDopeChems",
+    "name": "Compatible Chemical Status Enhancement",
+    "authors": [ "" ],
+    "description": "Malkeus: (Fixed drug recipes.) Adds drug and body modifications to increase base stats",
+    "category": "rebalance",
+    "dependencies": [ "dda", "ms" ]
+  }
+]
